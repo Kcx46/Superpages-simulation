@@ -5,6 +5,9 @@ This projects simulates the feature of ALLOCATION from "Practical, Transparent O
 
 
 Where you can set the next parameters: 
+
 -Total memory size
+
 -object (to allocate) memory size
+
 -TLB size (number of entries)
